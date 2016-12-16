@@ -31,6 +31,9 @@ them work with this library.  If anyone can I have three, so I"m very interested
 
 
 #Example
+Alphabet-Screen.ino simply writes A-J to each column and repeats for each row.
+
+There are elements of the example that are further extracted in my SimpleScreen class.  
 
 Hookup Guide: https://learn.sparkfun.com/tutorials/graphic-lcd-hookup-guide
 

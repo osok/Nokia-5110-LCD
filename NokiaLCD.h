@@ -1,8 +1,8 @@
 /**
  * NokiaLCD.h - Library for interface to the Nokia 5110 84x48 LCD.
  * Created by osok
- * github https://github.com/osok/WinBod-25Q80BV
- * Released into public domain. * 
+ * github https://github.com/osok/Nokia-5110-LCD
+ * 
  */
 
 #ifndef NokiaLCD_h

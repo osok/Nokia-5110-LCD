@@ -1,6 +1,5 @@
 /**
- * WBFlash.h - Library for easy interface to the WinBond 25Q80BV
- *              flash chip.  Could work with others, just not tested.
+ * NokiaLCD.h - Library for interface to the Nokia 5110 84x48 LCD.
  * Created by osok
  * github https://github.com/osok/WinBod-25Q80BV
  * Released into public domain. * 

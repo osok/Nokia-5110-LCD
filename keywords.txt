@@ -1,0 +1,4 @@
+NokiaLCD	KEYWORD1
+clear	KEYWORD2
+writeCharacter	KEYWORD2
+writeString	KEYWORD2

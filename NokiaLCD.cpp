@@ -1,3 +1,9 @@
+/**
+ * NokiaLCD.cpp - Library for interface to the Nokia 5110 84x48 LCD.
+ * Created by osok
+ * github https://github.com/osok/Nokia-5110-LCD
+ * 
+ */
 #include "NokiaLCD.h"
 
 NokiaLCD::NokiaLCD(int pin)
